@@ -1,0 +1,4 @@
+#Tue Sep 26 21:15:46 PDT 2023
+base.0=/Users/Alan/checklist_bootstrap/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
